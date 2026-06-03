@@ -46,3 +46,6 @@ volumes:
   ollama_data:
   qdrant_data:
   open_webui_data:
+
+# docker compose up -d
+# docker compose down
